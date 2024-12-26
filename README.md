@@ -76,3 +76,5 @@ endmodule
 
 
 ![image](https://github.com/23004513/T-FLIPFLOP-POSEDGE/assets/138973069/35b6a3a6-9937-43bc-b147-6ce8a87dfe63)
+**RESULT**
+the code is executed successfully
